@@ -1,0 +1,32 @@
+body{
+    font-family: Calibri;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#search-bar{
+    margin-top: 1%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+#div1{
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+#div1>div{
+    width: 40%;
+    background-color: lavender;
+    color: black;
+    padding: 2%;
+    text-align: center;
+    margin-bottom: 2%;
+
+}
